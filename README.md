@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bikromkumar
-- 👀 I’m interested in HTML, CSS, PHP
+- 👀 I’m interested in HTML, CSS, PHpP
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
